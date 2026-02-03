@@ -28,7 +28,6 @@ Each project typically includes:
 - Create reusable ML pipelines
 - Maintain a public ML learning journey
 
----
 
 ## 🛠 Tech Stack
 
