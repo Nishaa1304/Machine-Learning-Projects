@@ -5,7 +5,7 @@ This repo documents my ongoing **machine learning learning streak**, where I reg
 
 The goal is to practice consistently and build real-world ML problem-solving skills.
 
----
+
 
 ## 📌 What This Repository Contains
 
@@ -18,7 +18,7 @@ Each project typically includes:
 - 📈 Model Evaluation & Results
 - 📁 Clean and structured project notebooks/scripts
 
----
+
 
 ## 🎯 Objective
 
@@ -41,10 +41,6 @@ Projects may use:
 - Jupyter Notebook
 - Machine Learning algorithms
 
----
-
-
----
 
 ## 📅 Learning Streak Goal
 
@@ -54,7 +50,6 @@ Consistently upload ML projects covering:
 - Model experimentation
 - Performance improvement
 
----
 
 ## 🚀 Future Additions
 
@@ -64,13 +59,11 @@ Planned improvements include:
 - Deployment projects
 - Deep learning experiments
 
----
 
 ## ⭐ Contribution
 
 This repo is mainly for learning and tracking progress, but suggestions and improvements are always welcome.
 
----
 
 ## 📬 Connect
 
