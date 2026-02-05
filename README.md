@@ -68,7 +68,7 @@ This repo is mainly for learning and tracking progress, but suggestions and impr
 
 Feel free to explore the projects and follow my learning journey!
 
-Happy Learning 🚀
+Happy Learning !
 
 
 
