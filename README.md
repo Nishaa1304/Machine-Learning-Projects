@@ -29,7 +29,7 @@ Each project typically includes:
 - Maintain a public ML learning journey
 
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack : 
 
 Projects may use:
 
