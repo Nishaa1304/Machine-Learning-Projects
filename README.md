@@ -20,7 +20,7 @@ Each project typically includes:
 
 
 
-## 🎯 Objective
+## 🎯 Objective : 
 
 - Build ML projects consistently
 - Improve understanding of real datasets
