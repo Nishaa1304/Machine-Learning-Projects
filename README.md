@@ -61,7 +61,7 @@ Planned improvements include:
 
 ## ⭐ Contribution
 
-This repo is mainly for learning and tracking progress, but suggestions and improvements are always welcome.
+This repo is mainly for learning and tracking progress, but suggestions and improvements are always Welcome.
 
 
 ## 📬 Connect
