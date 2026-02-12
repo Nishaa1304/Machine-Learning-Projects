@@ -22,7 +22,7 @@ Each project typically includes:
 
 ## 🎯 Objective : 
 
-- Build ML projects consistently
+- Build ML projects consistently.
 - Improve understanding of real datasets
 - Practice model building & evaluation
 - Create reusable ML pipelines
