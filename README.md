@@ -56,7 +56,7 @@ Planned improvements include:
 - Advanced ML models
 - End-to-end pipelines
 - Deployment projects
-- Deep learning experiments
+- Deep learning experiment
 
 
 ## ⭐ Contribution
